@@ -1,7 +1,7 @@
 {
   "source_title": "Circular Insanity. A Contribution to the Study of the Affection.—Report of a Case",
   "title_zh": "循環性精神病病例報告（1890）",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "language": "en",
   "catalogue": "https://archive.org/details/alienistneurolog11stlouoft/page/n190/mode/1up",
   "manifest": "https://archive.org/download/alienistneurolog11stlouoft/alienistneurolog11stlouoft_scandata.xml",
@@ -108,13 +108,13 @@
             },
             {
               "kind": "footnote",
-              "text": "* Insanity and Its Treatment, page 175.",
+              "text": "* Insanity and Its Treatment, page 176.",
               "id": "f002-s-u03"
             }
           ],
           "notes": [
             "Running head: Theodore Diller.",
-            "The final digit in the note is a tightly printed 5. Comparison of its top and left outline with the 6 in the preceding page’s footnote supports 175."
+            "Final digit in the footnote checked against an enlarged crop of this fixed scan. The loop at the base supports 6. v0.2.0 read the cited page as 175."
           ]
         }
       ]
@@ -846,6 +846,5 @@
         }
       ]
     }
-  ],
-  "source_rights_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  ]
 }

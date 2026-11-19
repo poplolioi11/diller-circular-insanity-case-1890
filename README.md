@@ -8,7 +8,7 @@ Theodore Diller’s 1890 case report follows a patient across three admissions, 
 
 University of Toronto Libraries, Gerstein Science Information Centre, Alienist and Neurologist vol. 11 / alienistneurolog11stlouoft, Source frames 1–9. Original publication: Alienist and Neurologist, 11(2), April 1890, pp. 175–183. Complete journal article, printed pages 175–183, retaining the chronology and masked surname as printed.
 
-[Digitized source](https://archive.org/details/alienistneurolog11stlouoft/page/n190/mode/1up) · [Scan inventory](https://archive.org/download/alienistneurolog11stlouoft/alienistneurolog11stlouoft_scandata.xml) · [Source copy and machine text](https://archive.org/details/alienistneurolog11stlouoft) · [Source rights statement](https://creativecommons.org/publicdomain/mark/1.0/)
+[Digitized source](https://archive.org/details/alienistneurolog11stlouoft/page/n190/mode/1up) · [Scan inventory](https://archive.org/download/alienistneurolog11stlouoft/alienistneurolog11stlouoft_scandata.xml) · [Source copy and machine text](https://archive.org/details/alienistneurolog11stlouoft) · [Source item rights metadata](https://archive.org/metadata/alienistneurolog11stlouoft)
 ## Files
 
 - `transcription.txt` retains line and frame markers. Tabs mark table cells. 
@@ -19,7 +19,7 @@ University of Toronto Libraries, Gerstein Science Information Centre, Alienist a
 
 AI-assisted reading used fixed source scans. Published text preserves printed spellings and historical terminology. Spacing may be normalized. A square (□) indicates an unresolved character. See the notes for editorial omissions and uncertain readings.
 
-Version 0.2.0. This dataset has no measured error rate or expert proofreading.
+Version 0.2.1. This dataset has no measured error rate or expert proofreading.
 ## Rights and citation
 
 The nineteenth-century printed text is in the public domain in the United States. New editorial material and encoding are licensed under CC BY 4.0 wherever copyright applies. Credit the historical source and the transcription by Chu, Chen-Yu (https://orcid.org/0009-0003-9738-6914). For a reading correction, cite the scan number and the relevant text in a GitHub issue.
