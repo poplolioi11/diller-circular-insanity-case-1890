@@ -1,15 +1,15 @@
 {
   "source_title": "Circular Insanity. A Contribution to the Study of the Affection.—Report of a Case",
   "title_zh": "循環性精神病病例報告（1890）",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "language": "en",
   "catalogue": "https://archive.org/details/alienistneurolog11stlouoft/page/n190/mode/1up",
-  "manifest": "https://archive.org/metadata/alienistneurolog11stlouoft",
+  "manifest": "https://archive.org/download/alienistneurolog11stlouoft/alienistneurolog11stlouoft_scandata.xml",
   "source_ocr": "https://archive.org/details/alienistneurolog11stlouoft",
   "shelfmark": "Alienist and Neurologist vol. 11 / alienistneurolog11stlouoft",
   "source_provider": "University of Toronto Libraries, Gerstein Science Information Centre",
   "historical_institution": "Theodore Diller",
-  "imprint": "Alienist and Neurologist, vol. 11, April 1890, pp. 175–183",
+  "imprint": "Alienist and Neurologist, 11(2), April 1890, pp. 175–183",
   "rights": "The nineteenth-century printed text is in the public domain in the United States. New editorial material and encoding are licensed under CC BY 4.0 wherever copyright applies.",
   "coverage_note": "Complete journal article, printed pages 175–183, retaining the chronology and masked surname as printed.",
   "frames": [
@@ -34,18 +34,18 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "text",
+              "kind": "heading",
               "text": "CIRCULAR INSANITY.",
               "id": "f001-s-u01"
             },
             {
-              "kind": "text",
+              "kind": "heading",
               "text": "A CONTRIBUTION TO THE STUDY OF THE AFFECTION.—\nREPORT OF A CASE.",
               "id": "f001-s-u02"
             },
             {
-              "kind": "text",
-              "text": "By Theodore Diller, M. D., Danville, Pa.,\nAssistant Physician, State Hospital for the Insane.",
+              "kind": "byline",
+              "text": "By THEODORE DILLER, M. D., Danville, Pa.,\nAssistant Physician, State Hospital for the Insane.",
               "id": "f001-s-u03"
             },
             {
@@ -64,16 +64,14 @@
               "id": "f001-s-u06"
             },
             {
-              "kind": "text",
+              "kind": "footnote",
               "text": "* Manual of Insanity, 2nd Ed., page 267.",
               "id": "f001-s-u07"
             }
           ],
           "notes": [
-            {
-              "type": "source_spelling",
-              "text": "The first paragraph spells the quoted French phrase “foile circularie” in the original."
-            }
+            "Bracketed page number [175] below the footnote.",
+            "The misspelling 'foile circularie' is transcribed as printed."
           ]
         }
       ]
@@ -100,30 +98,23 @@
           "units": [
             {
               "kind": "text",
-              "text": "Theodore Diller.",
+              "text": "melancholic and maniacal states follow or alternate with each other, but does not provide for the lucid interval. His general description of circular insanity, however, corresponds, in the main, with the ideas of others who have written upon the subject.",
               "id": "f002-s-u01"
             },
             {
               "kind": "text",
-              "text": "melancholic and maniacal states follow or alternate with each other, but does not provide for the lucid interval. His general description of circular insanity, however, corresponds, in the main, with the ideas of others who have written upon the subject.",
+              "text": "A typical case, to me, would be where the three mental states, excitement, depression and comparative sanity, each lasted about the same length of time,—the melancholia and excitement of one cycle being of about the same intensity as that of preceding or succeeding cycles; and where the states in each cycle always came in the same order, or at least where one cycle (consisting of the three states) was the type of many others as regards duration and character of each of the three states. But as a matter of fact the cycle varies greatly—it may be completed in three days, as in a case related by Blanford*—depression one day, excitement the next and insanity on the third; on the other hand, it may take a year, or even much longer to complete it. The excitement and depression may be mild or intense, even in the same case, comparing one cycle with another; the duration of the states of one cycle as compared with another, even in the same individual, may also vary greatly. The state of apparent mental soundness may be wanting altogether or seen only very briefly, as a transitional stage from melancholia to mania, or vice versa. Given a case where the three states are observed in a cycle, these may follow each other in a reverse order in one cycle as compared with another, or indeed the three conditions may alternate in such an irregular and unsystematic way that it is difficult or impossible to separate the so-called cycles. The only essential features then, in a case of circular insanity, is the regular or irregular recurrence of excitement, depression and apparent sanity, or of the first two of these states only. I wish to lay stress upon this definition, as only by its acceptance can the case I am about to relate be called one of circular insanity.",
               "id": "f002-s-u02"
             },
             {
-              "kind": "text",
-              "text": "A typical case, to me, would be where the three mental states, excitement, depression and comparative sanity, each lasted about the same length of time,—the melancholia and excitement of one cycle being of about the same intensity as that of preceding or succeeding cycles; and where the states in each cycle always came in the same order, or at least where one cycle (consisting of the three states) was the type of many others as regards duration and character of each of the three states. But as a matter of fact the cycle varies greatly—it may be completed in three days, as in a case related by Blanford*—depression one day, excitement the next and insanity on the third; on the other hand, it may take a year, or even much longer to complete it. The excitement and depression may be mild or intense, even in the same case, comparing one cycle with another; the duration of the states of one cycle as compared with another, even in the same individual, may also vary greatly. The state of apparent mental soundness may be wanting altogether or seen only very briefly, as a transitional stage from melancholia to mania, or vice versa. Given a case where the three states are observed in a cycle, these may follow each other in a reverse order in one cycle as compared with another, or indeed the three conditions may alternate in such an irregular and unsystematic way that it is difficult or impossible to separate the so-called cycles. The only essential features then, in a case of circular insanity, is the regular or irregular recurrence of excitement, depression and apparent sanity, or of the first two of these states only. I wish to lay stress upon this definition, as only by its acceptance can the case I am about to relate be called one of circular insanity.",
+              "kind": "footnote",
+              "text": "* Insanity and Its Treatment, page 175.",
               "id": "f002-s-u03"
-            },
-            {
-              "kind": "text",
-              "text": "* Insanity and Its Treatment, page 176.",
-              "id": "f002-s-u04"
             }
           ],
           "notes": [
-            {
-              "type": "ocr_correction",
-              "text": "The source image reads page 176 in the footnote."
-            }
+            "Running head: Theodore Diller.",
+            "The final digit in the note is a tightly printed 5. Comparison of its top and left outline with the 6 in the preceding page’s footnote supports 175."
           ]
         }
       ]
@@ -150,85 +141,78 @@
           "units": [
             {
               "kind": "text",
-              "text": "Circular Insanity.",
+              "text": "Hattie B——, single; admitted to this hospital April 30. 1879, at the age of 22 (present age 33). She is a native of Pennsylvania; daughter of a farmer. Medical certificate which accompanied her makes the following statements:",
               "id": "f003-s-u01"
             },
             {
               "kind": "text",
-              "text": "Hattie B——, single; admitted to this hospital April 30, 1879, at the age of 22 (present age 33). She is a native of Pennsylvania; daughter of a farmer. Medical certificate which accompanied her makes the following statements:",
+              "text": "Mother died of consumption about eleven years ago; grandmother was nervous and hysterical. Patient is intelligent, educated, and is regarded by her friends as being of a pleasant, agreeable disposition. She talks incoherently at times; “has had changes affecting the mind, at uncertain times, for the past seven years.” A year ago fell backward out of a wagon, but did not appear to suffer any particular inconvenience from the accident. Her present manifestation of insanity has existed about five weeks.",
               "id": "f003-s-u02"
             },
             {
               "kind": "text",
-              "text": "Mother died of consumption about eleven years ago; grandmother was nervous and hysterical. Patient is intelligent, educated, and is regarded by her friends as being of a pleasant, agreeable disposition. She talks incoherently at times; “has had changes affecting the mind, at uncertain times, for the past seven years.” A year ago fell backward out of a wagon, but did not appear to suffer any particular inconvenience from the accident. Her present manifestation of insanity has existed about five weeks.",
+              "text": "May 10, 1879.—Physical Condition: A blonde; good figure; medium height; apparently enjoying good physical health.",
               "id": "f003-s-u03"
             },
             {
               "kind": "text",
-              "text": "May 10, 1879.—Physical Condition: A blonde; good figure; medium height; apparently enjoying good physical health.",
+              "text": "Mental Condition: Countenance expressionless; apparently understands questions, as she will, at times, make intelligent replies, but as a rule she is mute, even when interrogated.",
               "id": "f003-s-u04"
             },
             {
               "kind": "text",
-              "text": "Mental Condition: Countenance expressionless; apparently understands questions, as she will, at times, make intelligent replies, but as a rule she is mute, even when interrogated.",
+              "text": "May 26. No improvement.",
               "id": "f003-s-u05"
             },
             {
               "kind": "text",
-              "text": "May 26. No improvement.",
+              "text": "June 17. After a few days’ increasing abnormal vivacity she became quite garrulous, obscene and profane and very careless about her dress; destroyed clothing; removed to a refractory ward.",
               "id": "f003-s-u06"
             },
             {
               "kind": "text",
-              "text": "June 17. After a few days’ increasing abnormal vivacity she became quite garrulous, obscene and profane and very careless about her dress; destroyed clothing; removed to a refractory ward.",
+              "text": "June 24. Becoming calmer and relapsing into her former condition of apathy and indifference to her surroundings, she was returned to a quieter ward. Does not move around or engage in conversation.",
               "id": "f003-s-u07"
             },
             {
               "kind": "text",
-              "text": "June 24. Becoming calmer and relapsing into her former condition of apathy and indifference to her surroundings, she was returned to a quieter ward. Does not move around or engage in conversation.",
+              "text": "June 28. Violently excited; noisy both day and night.",
               "id": "f003-s-u08"
             },
             {
               "kind": "text",
-              "text": "June 28. Violently excited; noisy both day and night.",
+              "text": "July 13. Again in condition of depression similar to that noted June 24th.",
               "id": "f003-s-u09"
             },
             {
               "kind": "text",
-              "text": "July 13. Again in condition of depression similar to that noted June 24th.",
+              "text": "July 23. Again excited.",
               "id": "f003-s-u10"
             },
             {
               "kind": "text",
-              "text": "July 23. Again excited.",
+              "text": "August 29. Excitement has subsided and she is again listless, indifferent and apathetic.",
               "id": "f003-s-u11"
             },
             {
               "kind": "text",
-              "text": "August 29. Excitement has subsided and she is again listless, indifferent and apathetic.",
+              "text": "October 15. Gradually growing brighter, nearing her normal condition. Discharged.",
               "id": "f003-s-u12"
             },
             {
               "kind": "text",
-              "text": "October 15. Gradually growing brighter, nearing her normal condition. Discharged.",
+              "text": "Soon after leaving hospital the patient married.",
               "id": "f003-s-u13"
             },
             {
               "kind": "text",
-              "text": "Soon after leaving hospital the patient married.",
-              "id": "f003-s-u14"
-            },
-            {
-              "kind": "text",
               "text": "April 26, 1883. Readmitted, with the statement of having remained comparatively well for a little longer than a year after her discharge, when she again began to have “slight attacks;” these have increased in severity up to",
-              "id": "f003-s-u15"
+              "id": "f003-s-u14"
             }
           ],
           "notes": [
-            {
-              "type": "source_spelling",
-              "text": "The article masks the surname after B with a long dash. A small faint mark after “accompanied” resembles an ink speck."
-            }
+            "Running head: Circular Insanity.",
+            "The name is abbreviated at source by a long bar, encoded here as two em dashes. The date punctuation after 30 reads as a full stop. A faint low speck after 'accompanied' is treated as a blemish."
           ]
         }
       ]
@@ -255,106 +239,104 @@
           "units": [
             {
               "kind": "text",
-              "text": "Theodore Diller.",
+              "text": "the present time. For some days prior to admission she had been excited, boisterous and violent.",
               "id": "f004-s-u01"
             },
             {
               "kind": "text",
-              "text": "the present time. For some days prior to admission she had been excited, boisterous and violent.",
+              "text": "June 25. Continued in condition of maniacal excitement above noted up to this date, when there was noted a sudden change to comparative sanity.",
               "id": "f004-s-u02"
             },
             {
               "kind": "text",
-              "text": "June 25. Continued in condition of maniacal excitement above noted up to this date, when there was noted a sudden change to comparative sanity.",
+              "text": "July 1. Relapse during the night to her former condition of excitement.",
               "id": "f004-s-u03"
             },
             {
               "kind": "text",
-              "text": "July 1. Relapse during the night to her former condition of excitement.",
+              "text": "July 19. Quiet; needs no special care or watching.",
               "id": "f004-s-u04"
             },
             {
               "kind": "text",
-              "text": "July 19. Quiet; needs no special care or watching.",
+              "text": "August 2—27, September 21. Still quiet and apparently in her normal mental health.",
               "id": "f004-s-u05"
             },
             {
               "kind": "text",
-              "text": "August 2—27, September 21. Still quiet and apparently in her normal mental health.",
+              "text": "September 22. Without any preliminary symptoms, she suddenly relapsed during the night into a condition of violence and excitement. She is to-day noisy, profane and destructive.",
               "id": "f004-s-u06"
             },
             {
               "kind": "text",
-              "text": "September 22. Without any preliminary symptoms, she suddenly relapsed during the night into a condition of violence and excitement. She is to-day noisy, profane and destructive.",
+              "text": "September 25. Quiet and well-conducted.",
               "id": "f004-s-u07"
             },
             {
               "kind": "text",
-              "text": "September 25. Quiet and well-conducted.",
+              "text": "October 30. Quiet since date of last note.",
               "id": "f004-s-u08"
             },
             {
               "kind": "text",
-              "text": "October 30. Quiet since date of last note.",
+              "text": "November 18. Has become apathetic and oblivious to surroundings; is in a condition of stupor or depression resembling dementia.",
               "id": "f004-s-u09"
             },
             {
               "kind": "text",
-              "text": "November 18. Has become apathetic and oblivious to surroundings; is in a condition of stupor or depression resembling dementia.",
+              "text": "November 20. Noisy; shows symptoms of ordinary acute mania.",
               "id": "f004-s-u10"
             },
             {
               "kind": "text",
-              "text": "November 20. Noisy; shows symptoms of ordinary acute mania.",
+              "text": "November 28. Rational; apparently in normal mental condition. Has rather a sad expression, probably due to her appreciation of her condition.",
               "id": "f004-s-u11"
             },
             {
               "kind": "text",
-              "text": "November 28. Rational; apparently in normal mental condition. Has rather a sad expression, probably due to her appreciation of her condition.",
+              "text": "January 6. Still quiet; apparently in normal condition.",
               "id": "f004-s-u12"
             },
             {
               "kind": "text",
-              "text": "January 6. Still quiet; apparently in normal condition.",
+              "text": "January 7. Owing to receipt of a letter from home, or at least coincident with it, symptoms of acute excitement are exhibited to-day.",
               "id": "f004-s-u13"
             },
             {
               "kind": "text",
-              "text": "January 7. Owing to receipt of a letter from home, or at least coincident with it, symptoms of acute excitement are exhibited to-day.",
+              "text": "January 8. Resumed her quiet manner to-day.",
               "id": "f004-s-u14"
             },
             {
               "kind": "text",
-              "text": "January 8. Resumed her quiet manner to-day.",
+              "text": "January 22. No change since date of last note. Discharged at request of husband.",
               "id": "f004-s-u15"
             },
             {
               "kind": "text",
-              "text": "January 22. No change since date of last note. Discharged at request of husband.",
+              "text": "July 25, 1889. Readmitted, with symptoms of acute excitement, which have existed for the past two weeks. Her husband states that she has had four spells of mental derangement since she was discharged in 1884. These “spells” were always coincident with menstrual periods. (?)",
               "id": "f004-s-u16"
             },
             {
               "kind": "text",
-              "text": "July 25, 1889. Readmitted, with symptoms of acute excitement, which have existed for the past two weeks. Her husband states that she has had four spells of mental derangement since she was discharged in 1884. These “spells” were always coincident with menstrual periods. (?)",
+              "text": "Physical Condition.—Patient is quite stout and plethoric,—of a sanguine temperament. Digestive and circulatory apparatus apparently normal.",
               "id": "f004-s-u17"
             },
             {
               "kind": "text",
-              "text": "Physical Condition.—Patient is quite stout and plethoric,—of a sanguine temperament. Digestive and circulatory apparatus apparently normal.",
+              "text": "Assigned to a refractory ward.",
               "id": "f004-s-u18"
             },
             {
               "kind": "text",
-              "text": "Assigned to a refractory ward.",
-              "id": "f004-s-u19"
-            },
-            {
-              "kind": "text",
               "text": "July 27. Continued to be noisy and violent for about forty-eight hours after admission, at the end of which time she suddenly quieted down. The subsidence of the",
-              "id": "f004-s-u20"
+              "id": "f004-s-u19"
             }
           ],
-          "notes": []
+          "notes": [
+            "Running head: Theodore Diller.",
+            "The date after September 25 ends in a period with a lighter stray stroke above."
+          ]
         }
       ]
     },
@@ -380,61 +362,58 @@
           "units": [
             {
               "kind": "text",
-              "text": "Circular Insanity.",
+              "text": "excitement was coincident with an attack of mild diarrhea. Talks rationally to-day; is a pleasant conversationalist; speaks of events in history of her past life, showing an excellent memory for both long past and recent occurrences.",
               "id": "f005-s-u01"
             },
             {
               "kind": "text",
-              "text": "excitement was coincident with an attack of mild diarrhea. Talks rationally to-day; is a pleasant conversationalist; speaks of events in history of her past life, showing an excellent memory for both long past and recent occurrences.",
+              "text": "August 30. Violent and excited. The condition came on suddenly, coincident with subsidence of diarrhea above noted.",
               "id": "f005-s-u02"
             },
             {
               "kind": "text",
-              "text": "August 30. Violent and excited. The condition came on suddenly, coincident with subsidence of diarrhea above noted.",
+              "text": "September 14. Sudden and complete change in demeanor, the metamorphosis taking place in the space of about two days. She is now in a state of languor, muscular relaxation and evident great mental depression. Face lacks all animation; will not engage in conversation. Occasionally makes remarks in monosyllables.",
               "id": "f005-s-u03"
             },
             {
               "kind": "text",
-              "text": "September 14. Sudden and complete change in demeanor, the metamorphosis taking place in the space of about two days. She is now in a state of languor, muscular relaxation and evident great mental depression. Face lacks all animation; will not engage in conversation. Occasionally makes remarks in monosyllables.",
+              "text": "October 21. Rather gradually (in the course of three days) wakened from state of depression mentioned in last note. To-day is neat and bright in appearance and modest in bearing; shows evidence of considerable intelligence and education. In a convalescent ward.",
               "id": "f005-s-u04"
             },
             {
               "kind": "text",
-              "text": "October 21. Rather gradually (in the course of three days) wakened from state of depression mentioned in last note. To-day is neat and bright in appearance and modest in bearing; shows evidence of considerable intelligence and education. In a convalescent ward.",
+              "text": "November 14. Three or four days ago began to lose animation, interest in surroundings and care in dress. This retrograde change has continued up to date. She is now in condition of stupor or depression similar to that noted September 14th.",
               "id": "f005-s-u05"
             },
             {
               "kind": "text",
-              "text": "November 14. Three or four days ago began to lose animation, interest in surroundings and care in dress. This retrograde change has continued up to date. She is now in condition of stupor or depression similar to that noted September 14th.",
+              "text": "December 15. Excited and violent, but in less degree than upon former occasions.",
               "id": "f005-s-u06"
             },
             {
               "kind": "text",
-              "text": "December 15. Excited and violent, but in less degree than upon former occasions.",
+              "text": "December 23. Quiet; in condition of depression and apathy, which is, however, not nearly so pronounced as upon former occasions when she was depressed, e. g., that noted November 14th and September 14th. Has some regard for personal appearances, but does not move about. Will answer questions when strongly urged. Shows retention of memory and an appreciation of surroundings.",
               "id": "f005-s-u07"
             },
             {
               "kind": "text",
-              "text": "December 23. Quiet; in condition of depression and apathy, which is, however, not nearly so pronounced as upon former occasions when she was depressed, e. g., that noted November 14th and September 14th. Has some regard for personal appearances, but does not move about. Will answer questions when strongly urged. Shows retention of memory and an appreciation of surroundings.",
+              "text": "February 21, 1890. Remained in condition last noted up to yesterday, when she began to get restless and uneasy, and this rapidly progressed to actual excitement. To-day she is violent, boisterous and destructive.",
               "id": "f005-s-u08"
             },
             {
               "kind": "text",
-              "text": "February 21, 1890. Remained in condition last noted up to yesterday, when she began to get restless and uneasy, and this rapidly progressed to actual excitement. To-day she is violent, boisterous and destructive.",
+              "text": "March 3. Condition of excitement above noted continues unabated. Patient is seldom incoherent; usually gives relevant answers to questions, but cannot concentrate her mind on one train of thought for longer than a minute or two; highly mischievous and destructive.",
               "id": "f005-s-u09"
             },
             {
               "kind": "text",
-              "text": "March 3. Condition of excitement above noted continues unabated. Patient is seldom incoherent; usually gives relevant answers to questions, but cannot concentrate her mind on one train of thought for longer than a minute or two; highly mischievous and destructive.",
-              "id": "f005-s-u10"
-            },
-            {
-              "kind": "text",
               "text": "To summarize: Our patient, now thirty-three years of age, has been insane eighteen years—since she was fifteen",
-              "id": "f005-s-u11"
+              "id": "f005-s-u10"
             }
           ],
-          "notes": []
+          "notes": [
+            "Running head: Circular Insanity."
+          ]
         }
       ]
     },
@@ -460,23 +439,18 @@
           "units": [
             {
               "kind": "text",
-              "text": "Theodore Diller.",
+              "text": "years old. She has been admitted to this hospital three times. The first time, May 2, 1879; the second time, April 26, 1883; the third time, July 25, 1889. Her first residence in the hospital extended over a period of five months; the second, over a period of nine months; the third residence, up to the present time, amounts to eight months.",
               "id": "f006-s-u01"
             },
             {
               "kind": "text",
-              "text": "years old. She has been admitted to this hospital three times. The first time, May 2, 1879; the second time, April 26, 1883; the third time, July 25, 1889. Her first residence in the hospital extended over a period of five months; the second, over a period of nine months; the third residence, up to the present time, amounts to eight months.",
+              "text": "Her mental condition during the three periods she has resided here may, for convenient reference, be tabulated as follows:",
               "id": "f006-s-u02"
             },
             {
-              "kind": "text",
-              "text": "Her mental condition during the three periods she has resided here may, for convenient reference, be tabulated as follows:",
+              "kind": "heading",
+              "text": "FIRST RESIDENCE IN HOSPITAL.",
               "id": "f006-s-u03"
-            },
-            {
-              "kind": "text",
-              "text": "First Residence in Hospital.",
-              "id": "f006-s-u04"
             },
             {
               "kind": "table",
@@ -512,7 +486,8 @@
                   "10 days."
                 ]
               ],
-              "id": "f006-s-u05"
+              "header_row": false,
+              "id": "f006-s-u04"
             },
             {
               "kind": "table",
@@ -538,12 +513,13 @@
                   ""
                 ]
               ],
-              "id": "f006-s-u06"
+              "header_row": false,
+              "id": "f006-s-u05"
             },
             {
-              "kind": "text",
-              "text": "Second Residence in Hospital.",
-              "id": "f006-s-u07"
+              "kind": "heading",
+              "text": "SECOND RESIDENCE IN HOSPITAL.",
+              "id": "f006-s-u06"
             },
             {
               "kind": "table",
@@ -589,7 +565,8 @@
                   "7 weeks."
                 ]
               ],
-              "id": "f006-s-u08"
+              "header_row": false,
+              "id": "f006-s-u07"
             },
             {
               "kind": "table",
@@ -635,12 +612,13 @@
                   ""
                 ]
               ],
-              "id": "f006-s-u09"
+              "header_row": false,
+              "id": "f006-s-u08"
             },
             {
-              "kind": "text",
-              "text": "Third Residence in Hospital.",
-              "id": "f006-s-u10"
+              "kind": "heading",
+              "text": "THIRD RESIDENCE IN HOSPITAL.",
+              "id": "f006-s-u09"
             },
             {
               "kind": "table",
@@ -681,7 +659,8 @@
                   "3 weeks."
                 ]
               ],
-              "id": "f006-s-u11"
+              "header_row": false,
+              "id": "f006-s-u10"
             },
             {
               "kind": "table",
@@ -717,23 +696,20 @@
                   ""
                 ]
               ],
-              "id": "f006-s-u12"
+              "header_row": false,
+              "id": "f006-s-u11"
             },
             {
               "kind": "text",
               "text": "We have vague and indefinite reports of various “attacks” occurring during the time intervening between her first discharge and second admission, and also between second discharge and third admission. I think",
-              "id": "f006-s-u13"
+              "id": "f006-s-u12"
             }
           ],
           "notes": [
-            {
-              "type": "table_layout",
-              "text": "Each residence table has two successive printed columns. The transcript reads each column from top to bottom, preserves year headings and ditto marks, and represents dot leaders as cell boundaries."
-            },
-            {
-              "type": "uncertain_reading",
-              "text": "In the second residence, right column, Jan. 22, the letter immediately before the final d in Discharg d. is absent or too faint to read in this image. The in-source first admission dates and estimated durations differ between narrative and tables and are preserved as printed."
-            }
+            "Running head: Theodore Diller.",
+            "Each printed timeline consists of a left and a right chronological block. These are separate tables in reading order, left first and then right. Year lines and typographic ditto marks appear as printed. Dotted leaders are omitted.",
+            "In the right block of the second timeline, the last line visibly reads ‘Sane. Discharg d.’ An e is likely, but its outline could not be confirmed because of weak print at that location. Printed anomaly and possible supplied reading are kept separately.",
+            "The period in April 30. on p. 177 and the May 2 date on this page are both visible. The summary, table entries and narrative dates are left as printed."
           ]
         }
       ]
@@ -760,30 +736,23 @@
           "units": [
             {
               "kind": "text",
-              "text": "Circular Insanity.",
+              "text": "it is likely that during these intervals she enjoyed some periods of sanity of considerable length, for we have the history of her marriage, which took place between the first and second admissions to the hospital, and the statement of her husband that she was in normal condition for one year just following the first discharge. I believe, too, that her attacks of maniacal excitement occurring between the periods of residence here, must have been of considerable less intensity than those observed here, or it would have been impossible to have kept her at home, and she would have been brought back to the hospital.",
               "id": "f007-s-u01"
             },
             {
               "kind": "text",
-              "text": "it is likely that during these intervals she enjoyed some periods of sanity of considerable length, for we have the history of her marriage, which took place between the first and second admissions to the hospital, and the statement of her husband that she was in normal condition for one year just following the first discharge. I believe, too, that her attacks of maniacal excitement occurring between the periods of residence here, must have been of considerable less intensity than those observed here, or it would have been impossible to have kept her at home, and she would have been brought back to the hospital.",
+              "text": "Now let us see what lessons can be drawn from this case. The first, perhaps, to consider ought to be the practical one. I thing the correct diagnosis or prognosis of this case, seen only in her excited or depressed condition in the hospital, would be impossible, even by the most acute alienist, were her previous history unknown. The diagnosis in cases like this can only be made after an acquaintance with the previous history of the patient, or after he has been under observation long enough to exhibit the various changes. Great care and discretion should be observed in giving a prognosis in cases of what seem to be ordinary acute mania or melancholia, when admitted to a hospital.",
               "id": "f007-s-u02"
             },
             {
               "kind": "text",
-              "text": "Now let us see what lessons can be drawn from this case. The first, perhaps, to consider ought to be the practical one. I thing the correct diagnosis or prognosis of this case, seen only in her excited or depressed condition in the hospital, would be impossible, even by the most acute alienist, were her previous history unknown. The diagnosis in cases like this can only be made after an acquaintance with the previous history of the patient, or after he has been under observation long enough to exhibit the various changes. Great care and discretion should be observed in giving a prognosis in cases of what seem to be ordinary acute mania or melancholia, when admitted to a hospital.",
-              "id": "f007-s-u03"
-            },
-            {
-              "kind": "text",
               "text": "A peculiar and very interesting feature in the history of our patient is the fact that during her first residence here there were no periods of apparent sanity, melancholia and mania succeeding each other without the intervention of any lucid intervals. During her second residence here, three maniacal and rational periods alternated with each other, as in simple periodic insanity, before a melancholic period occurred. It is only during the third—her present residence, that anything like a cycle, comprising the three states, can be discerned. Perhaps it is not uncommon for recurrent or simple periodic insanity to become circular (more or less typical) by a process of evolution. Observations on this",
-              "id": "f007-s-u04"
+              "id": "f007-s-u03"
             }
           ],
           "notes": [
-            {
-              "type": "source_spelling",
-              "text": "The visible type reads “I thing” and “considerable less.”"
-            }
+            "Running head: Circular Insanity.",
+            "The form 'I thing' is visible and transcribed as printed."
           ]
         }
       ]
@@ -810,36 +779,33 @@
           "units": [
             {
               "kind": "text",
-              "text": "Theodore Diller.",
+              "text": "point, in a number of cases, would be of considerable interest.",
               "id": "f008-s-u01"
             },
             {
               "kind": "text",
-              "text": "point, in a number of cases, would be of considerable interest.",
+              "text": "A noteworthy feature in the case of our patient is the almost entire absence of the element of dementia,—certainly rare in cases of insanity of eighteen years’ standing, but which I believe to be not uncommon in this curious form of mental disease. In fact, on the contrary, it is considered by some to be a distinguishing feature of the disease.",
               "id": "f008-s-u02"
             },
             {
               "kind": "text",
-              "text": "A noteworthy feature in the case of our patient is the almost entire absence of the element of dementia,—certainly rare in cases of insanity of eighteen years’ standing, but which I believe to be not uncommon in this curious form of mental disease. In fact, on the contrary, it is considered by some to be a distinguishing feature of the disease.",
+              "text": "Another point of interest in the case is the character of the maniacal excitement. This differs from that of ordinary acute mania in several particulars. While there is some incoherence in speech, this feature is not so marked as in simple mania. The propensity for wanton mischief-making in cases of acute mania, is well known; but our patient in this particular excels any case of acute mania I have ever seen, her discernment and perception being remarkably quick and active. She is, when excited, ever on the alert to snatch a book or paper from the hand or pocket, upset a bucket of water, or in many other ways, readily imagined, seek to annoy the physician and attendants.",
               "id": "f008-s-u03"
             },
             {
               "kind": "text",
-              "text": "Another point of interest in the case is the character of the maniacal excitement. This differs from that of ordinary acute mania in several particulars. While there is some incoherence in speech, this feature is not so marked as in simple mania. The propensity for wanton mischief-making in cases of acute mania, is well known; but our patient in this particular excels any case of acute mania I have ever seen, her discernment and perception being remarkably quick and active. She is, when excited, ever on the alert to snatch a book or paper from the hand or pocket, upset a bucket of water, or in many other ways, readily imagined, seek to annoy the physician and attendants.",
+              "text": "Circular insanity and simple periodic insanity as seen in cases in this hospital are always of long duration. There is a case (female) of simple periodic insanity here, in which the disease is of many years’ standing. Extremely violent, maniacal excitement and apparent sanity have, during several years she has been here, alternated with each other with remarkable regularity, each condition lasting just about three weeks.",
               "id": "f008-s-u04"
             },
             {
               "kind": "text",
-              "text": "Circular insanity and simple periodic insanity as seen in cases in this hospital are always of long duration. There is a case (female) of simple periodic insanity here, in which the disease is of many years’ standing. Extremely violent, maniacal excitement and apparent sanity have, during several years she has been here, alternated with each other with remarkable regularity, each condition lasting just about three weeks.",
-              "id": "f008-s-u05"
-            },
-            {
-              "kind": "text",
               "text": "There is another case (male) of circular insanity here, which was admitted in 1873, at the age of forty-five, with the history of having been insane twenty years before admission. So he is now sixty-two years old and has been insane thirty-seven years, more than half his life. The cycles, comprising the three conditions, excitement, depression and apparent sanity, are well marked, requiring about a year for their completion. This man",
-              "id": "f008-s-u06"
+              "id": "f008-s-u05"
             }
           ],
-          "notes": []
+          "notes": [
+            "Running head: Theodore Diller."
+          ]
         }
       ]
     },
@@ -865,21 +831,18 @@
           "units": [
             {
               "kind": "text",
-              "text": "Circular Insanity.",
+              "text": "was discharged twice, but each time remained away from the hospital only a very short time. There is now a considerable degree of dementia in his case.",
               "id": "f009-s-u01"
             },
             {
               "kind": "text",
-              "text": "was discharged twice, but each time remained away from the hospital only a very short time. There is now a considerable degree of dementia in his case.",
-              "id": "f009-s-u02"
-            },
-            {
-              "kind": "text",
               "text": "Of 2,300 pauper insane examined by Spitzka, it was estimated by him that about four per cent. of the number were cases of circular insanity. I think there is not quite so large a percentage among the 900 patients in this hospital.",
-              "id": "f009-s-u03"
+              "id": "f009-s-u02"
             }
           ],
-          "notes": []
+          "notes": [
+            "Running head: Circular Insanity."
+          ]
         }
       ]
     }

@@ -8,7 +8,7 @@ CIRCULAR INSANITY.
 A CONTRIBUTION TO THE STUDY OF THE AFFECTION.—
 REPORT OF A CASE.
 
-By Theodore Diller, M. D., Danville, Pa.,
+By THEODORE DILLER, M. D., Danville, Pa.,
 Assistant Physician, State Hospital for the Insane.
 
 While circular insanity, attention to which was first directed by French alienists, who called it foile circularie, is now generally recognized and classified by systematic writers on mental diseases, yet reports of single cases are rather few in number. I therefore trust that the case I am about to record may be of interest as well as of some assistance in forming a correct idea of this interesting form of insanity.
@@ -17,29 +17,25 @@ Spitzka* believes, with Krafft-Ebing, that periodical insanity, of which he rega
 
 Spitzka’s general definition for periodical insanity, under which he includes simple periodic insanity and circular insanity, is, however, imperfect or inconsistent, as, in it, he declares the period or periods of mental disorder to be separated by states of apparent mental soundness; while in speaking of the subdivision, circular insanity, under the same head, he states that in some cases the
 
-* Manual of Insanity, 2nd Ed., page 267.
+[footnote] * Manual of Insanity, 2nd Ed., page 267.
 
 === Source frame 2 ===
 https://ia600705.us.archive.org/BookReader/BookReaderImages.php?id=alienistneurolog11stlouoft&itemPath=%2F0%2Fitems%2Falienistneurolog11stlouoft&server=ia600705.us.archive.org&page=n191.jpg
 
 [S, printed page 176; transcribed]
 
-Theodore Diller.
-
 melancholic and maniacal states follow or alternate with each other, but does not provide for the lucid interval. His general description of circular insanity, however, corresponds, in the main, with the ideas of others who have written upon the subject.
 
 A typical case, to me, would be where the three mental states, excitement, depression and comparative sanity, each lasted about the same length of time,—the melancholia and excitement of one cycle being of about the same intensity as that of preceding or succeeding cycles; and where the states in each cycle always came in the same order, or at least where one cycle (consisting of the three states) was the type of many others as regards duration and character of each of the three states. But as a matter of fact the cycle varies greatly—it may be completed in three days, as in a case related by Blanford*—depression one day, excitement the next and insanity on the third; on the other hand, it may take a year, or even much longer to complete it. The excitement and depression may be mild or intense, even in the same case, comparing one cycle with another; the duration of the states of one cycle as compared with another, even in the same individual, may also vary greatly. The state of apparent mental soundness may be wanting altogether or seen only very briefly, as a transitional stage from melancholia to mania, or vice versa. Given a case where the three states are observed in a cycle, these may follow each other in a reverse order in one cycle as compared with another, or indeed the three conditions may alternate in such an irregular and unsystematic way that it is difficult or impossible to separate the so-called cycles. The only essential features then, in a case of circular insanity, is the regular or irregular recurrence of excitement, depression and apparent sanity, or of the first two of these states only. I wish to lay stress upon this definition, as only by its acceptance can the case I am about to relate be called one of circular insanity.
 
-* Insanity and Its Treatment, page 176.
+[footnote] * Insanity and Its Treatment, page 175.
 
 === Source frame 3 ===
 https://ia600705.us.archive.org/BookReader/BookReaderImages.php?id=alienistneurolog11stlouoft&itemPath=%2F0%2Fitems%2Falienistneurolog11stlouoft&server=ia600705.us.archive.org&page=n192.jpg
 
 [S, printed page 177; transcribed]
 
-Circular Insanity.
-
-Hattie B——, single; admitted to this hospital April 30, 1879, at the age of 22 (present age 33). She is a native of Pennsylvania; daughter of a farmer. Medical certificate which accompanied her makes the following statements:
+Hattie B——, single; admitted to this hospital April 30. 1879, at the age of 22 (present age 33). She is a native of Pennsylvania; daughter of a farmer. Medical certificate which accompanied her makes the following statements:
 
 Mother died of consumption about eleven years ago; grandmother was nervous and hysterical. Patient is intelligent, educated, and is regarded by her friends as being of a pleasant, agreeable disposition. She talks incoherently at times; “has had changes affecting the mind, at uncertain times, for the past seven years.” A year ago fell backward out of a wagon, but did not appear to suffer any particular inconvenience from the accident. Her present manifestation of insanity has existed about five weeks.
 
@@ -71,8 +67,6 @@ April 26, 1883. Readmitted, with the statement of having remained comparatively 
 https://ia800705.us.archive.org/BookReader/BookReaderImages.php?id=alienistneurolog11stlouoft&itemPath=%2F0%2Fitems%2Falienistneurolog11stlouoft&server=ia800705.us.archive.org&page=n193.jpg
 
 [S, printed page 178; transcribed]
-
-Theodore Diller.
 
 the present time. For some days prior to admission she had been excited, boisterous and violent.
 
@@ -117,8 +111,6 @@ https://ia800705.us.archive.org/BookReader/BookReaderImages.php?id=alienistneuro
 
 [S, printed page 179; transcribed]
 
-Circular Insanity.
-
 excitement was coincident with an attack of mild diarrhea. Talks rationally to-day; is a pleasant conversationalist; speaks of events in history of her past life, showing an excellent memory for both long past and recent occurrences.
 
 August 30. Violent and excited. The condition came on suddenly, coincident with subsidence of diarrhea above noted.
@@ -144,13 +136,11 @@ https://ia800705.us.archive.org/BookReader/BookReaderImages.php?id=alienistneuro
 
 [S, printed page 180; transcribed]
 
-Theodore Diller.
-
 years old. She has been admitted to this hospital three times. The first time, May 2, 1879; the second time, April 26, 1883; the third time, July 25, 1889. Her first residence in the hospital extended over a period of five months; the second, over a period of nine months; the third residence, up to the present time, amounts to eight months.
 
 Her mental condition during the three periods she has resided here may, for convenient reference, be tabulated as follows:
 
-First Residence in Hospital.
+FIRST RESIDENCE IN HOSPITAL.
 
 1879.		
 May 2.	Melancholic	6 weeks.
@@ -164,7 +154,7 @@ July 23.	Maniacal	5 weeks.
 Aug. 29.	Melancholic, gradually merging into normal,	6 weeks.
 Oct. 15.	Discharged—normal.	
 
-Second Residence in Hospital.
+SECOND RESIDENCE IN HOSPITAL.
 
 1883.		
 April 26.	Maniacal	2 months.
@@ -184,7 +174,7 @@ Jan. 7.	Excited	1 day.
 “ 8.	Sane	14 days.
 “ 22.	Sane. Discharg d.	
 
-Third Residence in Hospital.
+THIRD RESIDENCE IN HOSPITAL.
 
 1889.		
 July 11.	Maniacal	16 days.
@@ -208,8 +198,6 @@ https://ia600705.us.archive.org/BookReader/BookReaderImages.php?id=alienistneuro
 
 [S, printed page 181; transcribed]
 
-Circular Insanity.
-
 it is likely that during these intervals she enjoyed some periods of sanity of considerable length, for we have the history of her marriage, which took place between the first and second admissions to the hospital, and the statement of her husband that she was in normal condition for one year just following the first discharge. I believe, too, that her attacks of maniacal excitement occurring between the periods of residence here, must have been of considerable less intensity than those observed here, or it would have been impossible to have kept her at home, and she would have been brought back to the hospital.
 
 Now let us see what lessons can be drawn from this case. The first, perhaps, to consider ought to be the practical one. I thing the correct diagnosis or prognosis of this case, seen only in her excited or depressed condition in the hospital, would be impossible, even by the most acute alienist, were her previous history unknown. The diagnosis in cases like this can only be made after an acquaintance with the previous history of the patient, or after he has been under observation long enough to exhibit the various changes. Great care and discretion should be observed in giving a prognosis in cases of what seem to be ordinary acute mania or melancholia, when admitted to a hospital.
@@ -220,8 +208,6 @@ A peculiar and very interesting feature in the history of our patient is the fac
 https://ia600705.us.archive.org/BookReader/BookReaderImages.php?id=alienistneurolog11stlouoft&itemPath=%2F0%2Fitems%2Falienistneurolog11stlouoft&server=ia600705.us.archive.org&page=n197.jpg
 
 [S, printed page 182; transcribed]
-
-Theodore Diller.
 
 point, in a number of cases, would be of considerable interest.
 
@@ -237,8 +223,6 @@ There is another case (male) of circular insanity here, which was admitted in 18
 https://ia800705.us.archive.org/BookReader/BookReaderImages.php?id=alienistneurolog11stlouoft&itemPath=%2F0%2Fitems%2Falienistneurolog11stlouoft&server=ia800705.us.archive.org&page=n198.jpg
 
 [S, printed page 183; transcribed]
-
-Circular Insanity.
 
 was discharged twice, but each time remained away from the hospital only a very short time. There is now a considerable degree of dementia in his case.
 

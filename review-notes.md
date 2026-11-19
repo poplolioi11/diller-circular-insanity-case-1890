@@ -1,5 +1,5 @@
 # Review notes
 
-Version 0.1.0. Source frames 1–9.
+Version 0.2.0. Source frames 1–9.
 
-Initial image-based transcription of all nine pages with local Apple Vision OCR support. The primary reader visually reviewed each page, paragraphs, dates, footnotes, all entries of the six table columns and the p. 183/184 article boundary. Typographic line wrapping and interword justification are normalized, with line-break hyphens joined and the printed page breaks preserved. Running heads and footnotes are marked. The faded table letter on p. 180 remains unresolved. Independent review is pending.
+Independent AI image reading and post-seal A/B adjudication of nine scans, printed pp. 175–183, with original footnotes and three timeline tables retained. The author byline and running heads are paratext. Where the copied readings differed, the image supports 175 in the footnote on p. 176, a period after April 30 on p. 177, and a faint or missing e in the table entry on p. 180, which is marked in notes. The three tables retain both original blocks each, in their reading order. The two B dates and other historical spellings are preserved. Ordinary typographic spacing and body italics are normalized.
